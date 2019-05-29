@@ -19,4 +19,3 @@ mediago在实现普通rtmp over tcp的基础上，同时实现rtmp over quic的�
 因为quic有0RTT快速连接的能力，丢包重传中ACK回复的block大，能容忍碎片丢包等特性，比传统TCP好很多。
 * 长距离传输 <br/>
 网络传输RTT比较高，quic在连接断开后的重连是0RTT，高效传输数据。
-
