@@ -28,8 +28,11 @@ rtmp pull client X<---[mediago server A]<---[mediago server B]<---rtmp push clie
 }
 </pre>
 其中: <br/>
-* "upstream_enable":"enable": 为使能回源功能
-* "upstream_host":["x.x.x.x"]: x.x.x.x为上游server的hostip或域名
-* "upstream_type":"tcp": 表示回源的传输协议使用传统的tcp
+* "upstream_enable":"enable": <br/>
+为使能回源功能
+* "upstream_host":["x.x.x.x"]: <br/>
+x.x.x.x为上游server的hostip或域名
+* "upstream_type":"tcp": <br/>
+表示回源的传输协议使用传统的tcp
 
 
