@@ -38,3 +38,5 @@ linux：笔者在centos上使用
 ### 3.3 wiki文档
 wiki: [使用说明](https://github.com/runner365/mediago_bin/blob/master/doc/Index.md)
 
+### 3.4 quic协议翻译
+[quic协议翻译精选](https://github.com/runner365/read_book/blob/master/Quic/Quic_Wire_layout_specification_%E8%87%AA%E8%AF%91.md)
