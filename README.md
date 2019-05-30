@@ -1,3 +1,4 @@
+欢迎使用，有问题可以在issue讨论，或者邮件到: xiaoq_bj@126.com.
 # mediago
 ## 1. 什么是mediago
 quic是基于udp的下一代高质量传输协议。mediago用quic协议来传输rtmp直播流。<br>
